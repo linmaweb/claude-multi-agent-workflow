@@ -1,5 +1,8 @@
 {
   "name": "code-quality-marketplace",
+  "owner": {
+    "name": "linmaweb"
+  },
   "plugins": [
     {
       "name": "code-quality-workflow",
