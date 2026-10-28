@@ -1,0 +1,10 @@
+{
+  "name": "code-quality-marketplace",
+  "plugins": [
+    {
+      "name": "code-quality-workflow",
+      "source": "./",
+      "description": "Reviews course-api/ in parallel and applies fixes, backed by a review checklist skill and a lint hook."
+    }
+  ]
+}
